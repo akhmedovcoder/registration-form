@@ -8,17 +8,20 @@
 }
 
 .wrapper{
+  display: flex;
+  justify-content: center;
   background-color: #F8F8F8;
+  align-items: center;
 }
 
 .container{
-  padding: 77px 60px;
+  padding: 77px 0px;
 }
 
 
 
 
-/* Registration box style start */
+/* Registration content style start */
 
 .registration__box{
   display: flex;
@@ -55,7 +58,7 @@
   margin-bottom: 38px;
 }
 
-/* Registration box style end */
+/* Registration content style end */
 
 
 
@@ -64,6 +67,8 @@
 /* Registration form style start */
 
 
-.registration__from
+.registration__form{
+  
+}
 
 /* Registration form style emd */
