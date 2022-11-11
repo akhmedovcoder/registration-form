@@ -1,1 +1,69 @@
-  
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+.wrapper{
+  background-color: #F8F8F8;
+}
+
+.container{
+  padding: 77px 60px;
+}
+
+
+
+
+/* Registration box style start */
+
+.registration__box{
+  display: flex;
+}
+
+.registration__content{
+  width: 276.25px;
+  height: 446px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: #FFD500;
+}
+
+.registration__content-logo{
+  width: 120px;
+  height: 120px;
+  margin-bottom: 10px;
+}
+
+.registration__content-title{
+  font-size: 18px;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+
+.registration__content-subtitle{
+  width: 200px;
+  font-size: 11px;
+  font-weight: 300;
+  line-height: 13.81px;
+  margin-bottom: 38px;
+}
+
+/* Registration box style end */
+
+
+
+
+
+/* Registration form style start */
+
+
+.registration__from
+
+/* Registration form style emd */
